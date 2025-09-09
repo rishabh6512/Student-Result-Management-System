@@ -4,6 +4,15 @@ A **simple** and **efficient** web application to manage student records and res
 
 ---
 
+## 🚀 Demo
+
+Check out the live demo here:  
+➡ [https://result-management-system.zya.me/](https://result-management-system.zya.me/)
+
+> *(If you’re running locally, visit http://localhost:8000 or http://localhost/student-result-management-system as explained below.)*
+
+---
+
 ## ✨ Features
 ✅ Admin panel to **add**, **edit**, and **delete** student records and results  
 ✅ Student result lookup by **roll number / registration ID** and **email**  
@@ -125,6 +134,34 @@ Then visit ➡️ [http://localhost:8000](http://localhost:8000)
 **Password:** `02019`
 
 👉 Check the database if these differ in your copy.
+
+---
+
+## Screenshots
+
+**Login Page**
+
+<img width="2764" height="1467" alt="Screenshot_20250909_150548" src="https://github.com/user-attachments/assets/e2de4d92-2d59-446d-9ac3-8a6dd2e5ae04" />
+
+**Dashboard**
+
+<img width="2773" height="1596" alt="Screenshot_20250909_150612" src="https://github.com/user-attachments/assets/2cc64e8f-53a8-4693-b974-0f515fc7b30f" />
+
+**Manage Students**
+
+<img width="2771" height="1590" alt="Screenshot_20250909_150651" src="https://github.com/user-attachments/assets/e2ef2460-04d7-45ea-a619-99045bb4efbc" />
+
+**Manage Subjects**
+
+<img width="2760" height="1596" alt="Screenshot_20250909_150707" src="https://github.com/user-attachments/assets/62f10338-86e7-4dc4-a9e7-3f3279b1ab82" />
+
+**Manage Classes**
+
+<img width="2763" height="1589" alt="Screenshot_20250909_150721" src="https://github.com/user-attachments/assets/d6345169-68de-46f2-8686-de413c32cc04" />
+
+**Result**
+
+<img width="2769" height="1598" alt="Screenshot_20250909_150804" src="https://github.com/user-attachments/assets/6efa6d31-6357-4b17-b3dd-255737dfb362" />
 
 ---
 
